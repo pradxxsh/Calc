@@ -86,7 +86,7 @@ Publish the website in the given URL.
 </div>
 </body>
 </html>
-![Screenshot (35)](https://github.com/pradxxsh/Calc/assets/131758539/292090c3-068c-4aca-bd9f-3b0114627c52)
+
 ```
 ## OUTPUT:
 ![Screenshot (35)](https://github.com/pradxxsh/Calc/assets/131758539/9b656fe0-b12b-4b4e-9398-940daa693119)
