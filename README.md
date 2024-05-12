@@ -1,4 +1,4 @@
-![Screenshot (36)](https://github.com/pradxxsh/Calc/assets/131758539/5a74766f-f608-4a6a-9f7c-ed167315c699)# Ex.08 Design of a Standard Calculator
+### Ex.08 Design of a Standard Calculator
 
 ## AIM:
 To design a web application for a standard calculator with minimum five operations.
